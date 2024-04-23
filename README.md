@@ -12,6 +12,9 @@ DOMを用いたウェブページ
 ## Pages URL
 - https://teraz1112.github.io/Emotion-Onomatopoeia-Dictionary/
 
+## 学習内容
+- DOM
+
 ## 使用技術
 <table>
 <tr>
