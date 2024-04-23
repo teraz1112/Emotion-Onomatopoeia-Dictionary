@@ -10,7 +10,7 @@ DOMを用いたウェブページ
 カテゴリをクリックすることで、それに関連する感情の擬音語のカードが表示されるセクションにジャンプします。
 
 ## Pages URL
-- 
+- https://teraz1112.github.io/Emotion-Onomatopoeia-Dictionary/
 
 ## 使用技術
 <table>
